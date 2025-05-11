@@ -3,6 +3,7 @@
   "displayName": "Python All-In-One",
   "description": "Popular VS Code extensions for Python",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -11,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/python-all-in-one"
+    "url": "https://github.com/qrexpy/PythonExtensionPack"
   },
   "extensionPack": [
     "ms-python.python",
