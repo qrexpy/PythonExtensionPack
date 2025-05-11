@@ -3,6 +3,7 @@
   "displayName": "Python All-In-One",
   "description": "Popular VS Code extensions for Python",
   "version": "0.0.1",
+  "publisher": "qrexxed",
   "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
