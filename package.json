@@ -1,0 +1,27 @@
+{
+  "name": "python-all-in-one",
+  "displayName": "Python All-In-One",
+  "description": "Popular VS Code extensions for Python",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/python-all-in-one"
+  },
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "ms-toolsai.jupyter",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "batisteo.vscode-django",
+    "kevinrose.vsc-python-indent",
+    "ms-python.vscode-python-envs"
+  ]
+}
